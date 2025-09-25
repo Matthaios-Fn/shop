@@ -14,7 +14,7 @@ const sortSelect = document.getElementById('sort');
 const paginationContainer = document.getElementById('pagination');
 
 // Fetch products
-fetch('./data/products.json')
+fetch('./products.json')
   .then(res => res.json())
   .then(products => {
     allProducts = products;
