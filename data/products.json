@@ -3,56 +3,56 @@
     "id": 1, 
     "name": "Essentials hoodie", 
     "price": 120.00, 
-    "image": "",
+    "image": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/193/099/original/1422284_01.jpg.jpeg?action=crop&width=800",
     "description": "Soft cotton hoodie with a relaxed fit."
   },
   { 
     "id": 2, 
     "name": "Balenci Tracks", 
     "price": 2000.00, 
-    "image": "",
+    "image": "https://cdn1.jolicloset.com/img4/fblink/2024/06/1377833-1.jpg",
     "description": "Bulky luxury running shoes."
   },
   { 
     "id": 3, 
     "name": "Chrome Hearts glasses", 
     "price": 3100.00, 
-    "image": "",
+    "image": "https://i.ebayimg.com/images/g/aLkAAOSwX3tno4Q2/s-l1200.png",
     "description": "Designer sunglasses with gothic detail."
   },
   { 
     "id": 4, 
     "name": "Boston Birks",
     "price": 169.99,
-    "image": "",
+    "image": "https://www.birkenstock.com/on/demandware.static/-/Sites-master-catalog/default/dw8ee3f607/660473/660473.jpg",
     "description": "Classic suede clogs with cork footbed."
   },
   { 
     "id": 5, 
     "name": "Essentials pants", 
     "price": 130.00, 
-    "image": "",
+    "image": "https://limitedresell.com/16604-marketplace_1500/sweatpants-fear-of-god-essentials-ss22-light-oatmeal.jpg",
     "description": "Relaxed fit sweatpants with drawstring waist."
   },
   { 
     "id": 6, 
     "name": "Nike Dunk Panda", 
     "price": 220.00, 
-    "image": "",
+    "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/b1bcbca4-e853-4df7-b329-5be3c61ee057/NIKE+DUNK+LOW+RETRO.png",
     "description": "Classic black and white low-top sneakers."
   },
   { 
     "id": 7, 
     "name": "Supreme Box Logo Tee", 
     "price": 350.00, 
-    "image": "",
+    "image": "https://images.stockx.com/images/Supreme-20th-Anniversary-Box-Logo-Tee-White.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744142786",
     "description": "Iconic cotton tee with bold Supreme logo."
   },
  { 
   "id": 8, 
   "name": "Amiri MX1 Jeans", 
   "price": 1200.00, 
-  "image": "",
+  "image": "https://cdn.theluxurycloset.com/uploads/products/full/luxury-men-amiri-used-clothes-p732979-002.jpg",
   "description": "Distressed skinny jeans with leather panel detailing."
 }
 ,
@@ -60,35 +60,35 @@
     "id": 9, 
     "name": "Yeezy Slides", 
     "price": 180.00, 
-    "image": "",
+    "image": "https://i.ebayimg.com/images/g/nF4AAOSwYttksD0U/s-l1200.jpg",
     "description": "Minimalist foam slides with cushioned sole."
   },
   { 
     "id": 10, 
     "name": "Moncler Puffer Jacket", 
     "price": 1650.00, 
-    "image": "",
+    "image": "https://www.mrporter.com/variants/images/38063312418859695/in/w2000_q60.jpg",
     "description": "Premium down-filled jacket with glossy finish."
   },
   { 
     "id": 11, 
     "name": "Off-White Belt", 
     "price": 220.00, 
-    "image": "",
+    "image": "https://images.stockx.com/images/OFF-WHITE-Industrial-Belt-Black.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1613363495",
     "description": "Industrial strap belt with bold Off-White branding."
   },
   { 
     "id": 12, 
     "name": "Travis Scott Jordan 1", 
     "price": 2400.00, 
-    "image": "",
+    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Travis-Scott-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1738193358",
     "description": "High-top Jordans with reverse swoosh."
   },
  { 
   "id": 13, 
   "name": "New Era 59FIFTY Cap", 
   "price": 45.00, 
-  "image": "",
+  "image": "https://www.neweracap.com/cdn/shop/files/70331909_70360398_59FIFTY_MLBAC2017GM_NEYYAN_OTC_3QL.jpg?v=1736179442",
   "description": "Classic fitted baseball cap with embroidered team logo."
 }
 ,
@@ -96,28 +96,28 @@
     "id": 14, 
     "name": "Fear of God Denim Jacket", 
     "price": 695.00, 
-    "image": "",
+    "image": "https://www.onenessboutique.com/cdn/shop/files/ONENESS_0026_202SU244270F_1445x.jpg?v=1716499645",
     "description": "Distressed denim jacket with oversized cut."
   },
   { 
     "id": 15, 
     "name": "Louis Vuitton Keepall", 
     "price": 3400.00, 
-    "image": "",
+    "image": "https://www.theluxecollection.com.au/cdn/shop/products/hFL1U8b9So8pPir-W02TWNK4o2W5uuDZUntitleddesign_14__png.png?v=1648688092",
     "description": "Luxury duffle bag with monogram canvas."
   },
   { 
     "id": 16, 
     "name": "Stone Island Cargo Pants", 
     "price": 395.00, 
-    "image": "",
+    "image": "https://stoneisland-cdn.thron.com/delivery/public/image/stoneisland/K1S153100304S0004V0129_F/ppk73x/std/0x0/K1S153100304S0004V0129_F.jpg",
     "description": "Slim fit cargo pants with removable patch."
   },
  { 
   "id": 17, 
   "name": "Stüssy Stock Logo Hoodie", 
   "price": 150.00, 
-  "image": "",
+  "image": "https://www.stussy.com/cdn/shop/files/1925000_BLAC_1_4e9cc1a7-a7e2-4d75-841c-a49007a07d15.jpg?v=1755082465&width=1600",
   "description": "Classic fleece hoodie with Stüssy’s signature logo print."
 }
 ,
@@ -125,7 +125,7 @@
   "id": 18, 
   "name": "Jordan 4 Retro 'Military Black'", 
   "price": 450.00, 
-  "image": "",
+  "image": "https://cdn.flightclub.com/TEMPLATE/299066/1.jpg",
   "description": "Classic Jordan 4 with black, white, and grey color blocking."
 }
 ,
@@ -133,14 +133,14 @@
     "id": 19, 
     "name": "Prada Re-Nylon Backpack", 
     "price": 1950.00, 
-    "image": "",
+    "image": "https://cdn-images.farfetch-contents.com/22/71/59/97/22715997_52716562_600.jpg",
     "description": "Sustainable nylon backpack with enamel logo."
   },
 { 
   "id": 20, 
   "name": "Gallery Dept. T-shirt", 
   "price": 300.00, 
-  "image": "",
+  "image": "https://images.stockx.com/images/Gallery-Dept-Souvenir-T-Shirt-Black-White-v2.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1737672892",
   "description": "Graphic cotton tee with vintage-inspired wash."
 }
 
