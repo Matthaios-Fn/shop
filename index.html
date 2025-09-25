@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+<header>
+  <h1>Stock Z</h1>
+  <div class="header-right">
+    <input type="text" id="search" placeholder="Search products...">
+    <select id="sort">
+      <option value="">Sort</option>
+      <option value="low-high">Price: Low → High</option>
+      <option value="high-low">Price: High → Low</option>
+      <option value="az">Name: A → Z</option>
+    </select>
+    <button id="cart-btn">Cart</button>
+  </div>
+</header>
+
+<div id="pagination"></div>
+
+
+  <!-- Main Product Grid -->
+  <main>
+    <div class="grid"></div>
+  </main>
+
+  <!-- Cart Sidebar -->
+  <aside id="cart-sidebar">
+    <h2>Your Cart</h2>
+    <div id="cart-items"></div>
+    <p id="total">Total: $0.00</p>
+    <button id="close-cart">Close Cart</button>
+  </aside>
+
+  <!-- Script -->
+  <script src="script.js"></script>
+</body>
+</html>
